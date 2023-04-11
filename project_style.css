@@ -1,0 +1,180 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Rubic", sans-serif;
+}
+body{
+  background-image: url(navi-4w0EleANuUI-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+.mobile{
+  background-image: url(05e63261-009b-4e5a-93f5-967d5fd90e87.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  width: 280px;
+  position: fixed;
+  border-radius: 20px;
+  border: 4px solid white;
+  box-shadow: 5px 5px 30px #d1d1d1;
+  padding: 0 ;
+  left: 20%;
+}
+.homeIcon{
+  color: whitesmoke;
+  background: 0;
+  border: 0px;
+  height: 25px;
+  width: 25px;
+  float: left;
+  margin-top: 5px;
+  margin-left: 5px;
+  z-index: -1px;
+}
+.menuIcon{
+  color: whitesmoke;
+  background: 0;
+  border: 0px;
+  height: 25px;
+  width: 25px;
+  float: right;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.webTitle{
+  background: rgba(255,255,255,.2);
+  width: 278px;
+  height: 40px;
+  opacity: 1px;
+  border-radius: 50px;
+  margin-top: 38px;
+  position: fixed;
+}
+.title{
+  font-size: 21px; 
+  color: white;
+  text-align: center;
+  margin-top: 9px;
+}
+.content{
+  background: rgba(255,255,255,.2);
+  box-shadow: 0 5px 15px rgba;
+  width: 278px;
+  height: 60px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  margin-top: -60px; 
+  position: fixed;
+}
+.cartIcon{
+  background: 0;
+  border: 0;
+  width: 25px;
+  height: 25px;
+  float: right;
+  margin-right: 5px;
+}
+.searchBar{
+  width: 260px;
+  height: 30px;
+  background: #d1d1d1;
+  margin-top: 20px;
+  position: fixed;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 5px;
+  align-items: center;
+}
+.gameSearch{
+  font-family: sans-serif;
+  font: italic;
+  font-size: small;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 8px;
+}
+.searchIcon{
+  margin-top: -16px;
+  margin-right: 20px;
+  background: 0;
+  float: right;
+  border: 0px;
+}
+.poster{
+  background: url(photo-1511512578047-dfb367046420.jpeg);
+  width: 278px;
+  height: 90px;
+  background-size: cover;
+  background-position: center;
+  margin-top: 140px;
+}
+.select1{
+  background: rgba(255,255,255,.2);
+  width: 135px;
+  height: 70px;
+  margin-top: 5px;
+}
+.select2{
+  background: rgba(255,255,255,.2);
+  width: 135px;
+  height: 70px;
+  margin-top: 5px;
+}
+.select3{
+  background: rgba(255,255,255,.2);
+  width: 135px;
+  height: 70px;
+  margin-top: 5px;
+}
+.select4{
+  background: rgba(255,255,255,.2);
+  width: 135px;
+  height: 70px;
+  float: right;
+  margin-top: -220px;
+}
+.select5{
+  background: rgba(255,255,255,.2);
+  width: 135px;
+  height: 70px;
+  float: right;
+  margin-top: -145px;
+}
+.select6{
+  background: rgba(255,255,255,.2);
+  width: 135px;
+  height: 70px;
+  float: right;
+  margin-top: -70px;
+}
+.nextButton{
+  width: 70px;
+  height: 20px;
+  float: right;
+  border-radius: 50px;
+  background: #d1d1d1;
+  margin-top: 15px;
+  margin-right: 5px;
+  border: 0px; 
+}
+.footer{
+  margin-top: 40px;
+  width: 240px;
+  margin-left: 17px;
+}  
+.reachOut{
+  font-size: xx-small;
+  text-align: center;
+  color: whitesmoke;
+}
+.copyright{
+  font-family: "monoton";
+  font-size: smaller;
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 5px;
+
+}
